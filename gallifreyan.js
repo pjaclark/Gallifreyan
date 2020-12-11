@@ -1,5 +1,5 @@
 "use strict";
-const canvasSize  = 1000.0;               //the image resolution in pixels
+const canvasSize  = 10000.0;               //the image resolution in pixels
 const canvasScale = canvasSize / 800.0;   //800=the canvas size on the screen
 const midPoint    = canvasSize / 2.0;     //the (x, y) of the centerpoint
 const outerR      = midPoint * 0.9;       //radius of the outermost circle
